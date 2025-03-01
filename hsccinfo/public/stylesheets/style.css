@@ -1,8 +1,18 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:rgba(44, 109, 96, 0.692)
+
+}
+}color: #00B7FF;
+}h1 {color: blueviolet;
 }
 
-a {
-  color: #00B7FF;
+.menu {
+  
+
+list-style-type: none;
+margin: 0;
+padding:0;
+background-color
 }
